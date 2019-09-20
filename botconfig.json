@@ -1,0 +1,32 @@
+{
+    "bot_setup": {
+        "prefix": ".",
+        "token": "Add_Token_Here",
+        "copyright": "© 2019 Your Discord Name",
+        "bot_status": "online",
+        "bot_game_type": "PLAYING",
+        "bot_game": "Some_Game_Presence",
+        "main_embed_color": "#ff0000",
+        "debug_mode": false
+    },
+
+    "module_toggles": {
+        "welcome_leave_channel": false,
+        "join_role": false,
+        "utility_commands": false,
+        "member_count_channel": false
+    },
+
+    "channel_setup": {
+        "welcome_channel": "Channel_ID",
+        "member_count_channel": "Channel_ID"
+    },
+
+    "join_roles": {
+        "role": "ROLE_ID"
+    },
+
+    "welcome_leave_channel_settings": {
+        "use_embed": false
+    }
+}
