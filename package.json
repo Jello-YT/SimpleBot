@@ -1,7 +1,7 @@
 {
-    "name": "multbbot",
+    "name": "SimpleBot",
     "version": "1.0.0",
-    "description": "MultiBot developed by FAXES",
+    "description": "SimpleBot developed by FAXES",
     "main": "index.js",
     "dependencies": {
         "discord.js": "^11.4.2",
