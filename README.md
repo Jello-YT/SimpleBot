@@ -15,5 +15,9 @@ SimpleBot is a easy Discord.js bot which is designed for people starting to lear
 Feel free to contribute and make pushes to this!
 
 ### Credits
-Bot - FAXES
-Moderation Commands - Me
+Bot
+- FAXES
+Moderation Commands
+- Me
+- guccifrog#2150 and Lane#6912 (Made Unban command!)
+

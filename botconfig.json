@@ -19,7 +19,8 @@
 
     "channel_setup": {
         "welcome_channel": "Channel_ID",
-        "member_count_channel": "Channel_ID"
+        "member_count_channel": "Channel_ID",
+        "ban_logs_channel": "<#channel_id>"
     },
 
     "join_roles": {
