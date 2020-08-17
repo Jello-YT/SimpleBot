@@ -11,22 +11,10 @@
     },
 
     "module_toggles": {
-        "welcome_leave_channel": false,
-        "join_role": false,
-        "utility_commands": false,
-        "member_count_channel": false
+        "utility_commands": false
     },
 
     "channel_setup": {
-        "welcome_channel": "Channel_ID",
         "member_count_channel": "Channel_ID"
-    },
-
-    "join_roles": {
-        "role": "ROLE_ID"
-    },
-
-    "welcome_leave_channel_settings": {
-        "use_embed": false
     }
 }
